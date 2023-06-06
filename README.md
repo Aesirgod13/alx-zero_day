@@ -1,1 +1,1 @@
-My first readme
+ALX SE Student from C17
