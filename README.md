@@ -1,1 +1,1 @@
-ALX SE Student from C17
+ALX SE Student C17
